@@ -13,7 +13,7 @@ Tesla Clone is a hybrid mobile application using React Native
 <!-- ABOUT THE PROJECT -->
 ## About The Project
     Here is a screenshot of the sample application:
-    <br />
+<br />
 <div align="center">
     <img src="images/Screenshot_20220730-163520.png">
     <br />
